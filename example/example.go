@@ -16,6 +16,6 @@ func init() {
 
 func main() {
 	if printVersion {
-		version.PrintVersion()
+		version.Print()
 	}
 }
